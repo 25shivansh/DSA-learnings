@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARRAYS/ARRAYS.iml" filepath="$PROJECT_DIR$/ARRAYS/ARRAYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAYS II/ARRAYS II.iml" filepath="$PROJECT_DIR$/ARRAYS II/ARRAYS II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC SORTING/ASSIGNMENT/ASSIGNMENT.iml" filepath="$PROJECT_DIR$/BASIC SORTING/ASSIGNMENT/ASSIGNMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARRAYS II/ASSIGNMENT-ARRAYS/ASSIGNMENT-ARRAYS.iml" filepath="$PROJECT_DIR$/ARRAYS II/ASSIGNMENT-ARRAYS/ASSIGNMENT-ARRAYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STRINGS/ASSIGNMENTS/ASSIGNMENTS.iml" filepath="$PROJECT_DIR$/STRINGS/ASSIGNMENTS/ASSIGNMENTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BACKTRACKING/BACKTRACKING.iml" filepath="$PROJECT_DIR$/BACKTRACKING/BACKTRACKING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASIC SORTING/BASIC SORTING.iml" filepath="$PROJECT_DIR$/BASIC SORTING/BASIC SORTING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BIT MANIPULATION/BIT MANIPULATION.iml" filepath="$PROJECT_DIR$/BIT MANIPULATION/BIT MANIPULATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIVIDE AND CONQUER/DIVIDE AND CONQUER.iml" filepath="$PROJECT_DIR$/DIVIDE AND CONQUER/DIVIDE AND CONQUER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA APNA COLLEGE.iml" filepath="$PROJECT_DIR$/.idea/DSA APNA COLLEGE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OBJECT ORIENTED PROGRAMMING/OBJECT ORIENTED PROGRAMMING.iml" filepath="$PROJECT_DIR$/OBJECT ORIENTED PROGRAMMING/OBJECT ORIENTED PROGRAMMING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RECURSION/RECURSION.iml" filepath="$PROJECT_DIR$/RECURSION/RECURSION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RECURSION-2/RECURSION-2.iml" filepath="$PROJECT_DIR$/RECURSION-2/RECURSION-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STRINGS/STRINGS.iml" filepath="$PROJECT_DIR$/STRINGS/STRINGS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TWO D ARRAYS/TWO D ARRAYS.iml" filepath="$PROJECT_DIR$/TWO D ARRAYS/TWO D ARRAYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlistbasics/linkedlistbasics.iml" filepath="$PROJECT_DIR$/linkedlistbasics/linkedlistbasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stacks/stacks.iml" filepath="$PROJECT_DIR$/stacks/stacks.iml" />
+    </modules>
+  </component>
+</project>
