@@ -1,3 +1,5 @@
+
+
 public class pairsinanarray{
     static void pairarray(int number[]){
         int n=number.length;
@@ -13,6 +15,7 @@ public class pairsinanarray{
         System.out.println("TOTAL PAIRS:"+tp);
     }
     public static void main(String[] args) {
+
         int number[]={2,4,6,8,10};
         pairarray(number);
     }

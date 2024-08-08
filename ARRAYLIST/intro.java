@@ -1,8 +1,10 @@
 package ARRAYLIST;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class intro {
     public static void main(String[] args) {
+
         ArrayList<Integer>list=new ArrayList<>();//CREATING A ARRAYLIST
         ArrayList<String>list2=new ArrayList<>();
         ArrayList<Boolean>list3=new ArrayList<>();
